@@ -1,0 +1,22 @@
+7 8
+Boston Chicago LasVegas LosAngeles NewYork Washington Wisconsin
+NewYork LasVegas
+LosAngeles NewYork
+Washington NewYork
+LasVegas Washington
+Washington LosAngeles
+Boston Chicago
+Chicago Wisconsin
+Wisconsin Boston
+2 
+LasVegas Chicago
+3
+Washington LosAngeles Wisconsin
+2
+LosAngeles 5 3
+Boston 3 3
+4
+LasVegas LosAngeles 35
+Washington NewYork 40
+Boston Wisconsin 25
+LasVegas LosAngeles 6

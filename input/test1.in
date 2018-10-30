@@ -1,0 +1,30 @@
+9 14
+aaa aab aac aad aae aaf aag aah aai
+aaa aab
+aab aag
+aab aad
+aac aab
+aac aad
+aad aae
+aae aac
+aae aaf
+aaf aag
+aag aaa
+aag aae
+aag aah
+aah aai
+aai aag
+2
+aaa aah
+5
+aaa aag aai aab aad
+3
+aab 5 2
+aae 8 3
+aaf 4 2
+4
+aab aae 7
+aaa aab 9
+aag aai 14
+aab aae 22
+
