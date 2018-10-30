@@ -1,8 +1,9 @@
         # Road-Map
         
     Modeling a road map in the form of an oriented graph.
+    
     The program determines: 
-        - the busiest city
+        - the most crowded city
         - the validity of the road map
         - cities inaccessible to a city
         - the nearest gas station where a car can feed
